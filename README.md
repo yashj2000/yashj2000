@@ -16,8 +16,6 @@ Skills: React.js, Node.js, Express, MongoDB, Next.js, Tailwind CSS, Python, Java
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashj2000)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/yashj2000)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=yashj2000)  
 
 ![Profile views](https://gpvc.arturio.dev/yashj2000)  
